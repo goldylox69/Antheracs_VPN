@@ -1,0 +1,6 @@
+#!/bin/bash
+clear
+cd vpnbook_file/
+sudo openvpn vpnbook-euro1-udp53.ovpn
+
+
